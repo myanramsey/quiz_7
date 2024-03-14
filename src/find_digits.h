@@ -31,7 +31,10 @@
 
 using namespace std;
 
-
+//TODO: Using maps to find the duplicates and count them in each set. Then subtract the number in each set.
+// 1234
+// 12345
+// if number is negative then dont print it
 
 string findTheDigits(string x, string y) {
 
